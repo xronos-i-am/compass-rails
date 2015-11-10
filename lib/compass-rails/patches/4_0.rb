@@ -1,4 +1,5 @@
 require 'compass-rails/patches/compass'
+require 'compass-rails/patches/image_properties'
 require 'compass-rails/patches/sass_importer'
 require 'compass-rails/patches/sprite_importer'
 

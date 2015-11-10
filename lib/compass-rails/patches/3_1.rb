@@ -1,4 +1,5 @@
 require 'compass-rails/patches/compass'
+require 'compass-rails/patches/image_properties'
 require 'compass-rails/patches/static_compiler'
 
 Compass::Core::SassExtensions::Functions::Urls::GeneratedImageUrl.module_eval do
